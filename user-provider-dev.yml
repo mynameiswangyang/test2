@@ -8,7 +8,7 @@ spring:
     url: jdbc:mysql://127.0.0.1:3306/springcloud?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
 
   application:
-    name: user-provider
+    name: user-provider2
 #指定eureka服务地址
 eureka:
   client:
