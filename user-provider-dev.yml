@@ -21,3 +21,5 @@ eureka:
     prefer-ip-address: true
 #    lease-expiration-duration-in-seconds: 150
 #    lease-renewal-interval-in-seconds: 30
+test:
+  message: hello!
